@@ -1,4 +1,4 @@
-![logo](https://github.com/CyberNord-23/CyberNord-23/blob/main/Banner.webp)
+![logo](https://github.com/CyberNord-23/CyberNord-23/blob/main/pic.jpg)
 <h1 align="center">Hi 👋, I'm 𝐍𝐢𝐤𝐮𝐧𝐣 𝐊𝐮𝐦𝐚𝐫 𝐒𝐚𝐡𝐚𝐧𝐢 </h1>
 <h3 align="center"> 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝘁𝗼 𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 & 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀 </h3>
 
